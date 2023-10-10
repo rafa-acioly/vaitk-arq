@@ -65,8 +65,8 @@ input.input100 {
 /*------------------------------------------------------------------
 [ Focus Input ]*/
 
-.purple {
-  color: #846add;
+.default-color {
+  color: #2f5442;
 }
 
 .focus-input100 {
@@ -77,7 +77,7 @@ input.input100 {
   top: 0px;
   left: 0px;
   pointer-events: none;
-  border: 1px solid #846add;
+  border: 1px solid #2f5442;
   border-radius: 5px;
   visibility: hidden;
   opacity: 0;
@@ -331,7 +331,7 @@ input.input100 {
 /*---------------------------------------------*/
 .how-btn {
   padding: 0 20px;
-  background-color: #846add;
+  background-color: #2f5442;
   border-radius: 5px;
 }
 
